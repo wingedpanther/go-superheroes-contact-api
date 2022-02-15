@@ -35,3 +35,5 @@ git add . && git commit -m "minimal api"
 it config --global user.email "vivekspathil@gmail.com"
 git config --global user.email "vivekspathil@gmail.com"
 git config --global user.name "wingedpanther"
+git add . && git commit -m "minimal api"
+git init -b main

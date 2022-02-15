@@ -1,0 +1,4 @@
+{
+    "csharp.suppressDotnetRestoreNotification": true,
+    "workbench.colorTheme": "dark"
+}
